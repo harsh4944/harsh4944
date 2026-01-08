@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **harshkaushik494@gmail.com** For Project or Anything Else.
 - 🌱 **I’m currently learning:** Machine Learning 
 - 📫 **How to reach me:** harshkaushik494@gmail.com
 - 😄 **Pronouns:** Harsh Kaushik
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech 
 
 
 ## 🌐 Socials:
