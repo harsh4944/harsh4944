@@ -16,7 +16,7 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 - [`AppSpec Compiler`](https://github.com/hkaushik14/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
 - [`GoCart`](https://github.com/hkaushik14/GoCart) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
-- [`Resume Matcher`](https://github.com/hkaushik14/Resume-Matching-System) — Transformer embeddings · cosine similarity ranking
+- [`Resume Matcher`](https://github.com/hkaushik14/resume-filter) — Transformer embeddings · cosine similarity ranking
 
 ---
 
