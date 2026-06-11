@@ -43,21 +43,6 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 <br>
 
 </div>
-What this shows
-
-<!-- <div align="center">
-
-
-
-
-
-
-<br>
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkaushik14&theme=tokyonight)](https://github.com/hkaushik14)
-
-</div> -->
-
 <div align="center">
 
 </div>
