@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Harsh%20Kaushik&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20%40%20College%20of%20Engineering%20Roorkee%20%C2%B7%202nd%20Year%20%C2%B7%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=15" />
+<h1 align="center">Hi, I'm Harsh Kaushik 👋</h1>
+<h3 align="center">CS @ College of Engineering Roorkee · 2nd Year · Full-Stack & AI Developer</h3>
+
+<br>
 </div>
 
 <br>
