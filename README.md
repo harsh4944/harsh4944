@@ -1,61 +1,44 @@
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h1 align="left">Hi, I'm Harsh Kaushik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<h4 align="left">CS @ College of Engineering Roorkee · 2nd Year · Full-Stack & AI Developer</h4>
-
-<p align="left">
-I build end-to-end systems — LLM-powered compilers, e-commerce platforms, and semantic AI tools.<br>
-Former <strong>AI & Cloud Intern @ Edunet Foundation (AWS)</strong>. Open to SWE Internships.
-</p>
-
-<hr>
-
-**🔧 What I'm building:**
-- [`AppSpec Compiler`](https://github.com/hkaushik14) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
-- [`GoCart`](https://github.com/hkaushik14) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
-- [`Resume Matcher`](https://github.com/hkaushik14) — Transformer embeddings · cosine similarity ranking
-
-<hr>
-
-**⚡ Proof of work:**
-→ 30% AWS processing time reduction @ Edunet<br>
-→ EY Techathon 6.0 — Top Team, Round 2<br>
-→ Oracle Certified: GenAI Professional + AI Foundations 2025
-
-<hr>
-
-<h4 align="left">🛠 Tech Stack:</h4>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,react,nextjs,nodejs,express,postgresql,mysql,tailwind,aws,git&perline=7" height="40" alt="Tech Stack" />
-</p>
-
-<h4 align="left">📬 Reach me:</h4>
-<p align="left">
-<a href="mailto:harshkaushik494@gmail.com">harshkaushik494@gmail.com</a> ·
-<a href="https://linkedin.com/in/harshkaushik1">LinkedIn</a> ·
-<a href="https://github.com/hkaushik14">GitHub</a>
-</p>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hkaushik14&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Harsh%20Kaushik&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20%40%20College%20of%20Engineering%20Roorkee%20%C2%B7%202nd%20Year%20%C2%B7%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=15" />
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hkaushik14&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+I build end-to-end systems — LLM-powered compilers, e-commerce platforms, and semantic AI tools.
+Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
-<br>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkaushik14&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+### 🔧 What I'm building
 
-</td>
-</tr>
-</table>
+- [`AppSpec Compiler`](https://github.com/hkaushik14/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
+- [`GoCart`](https://github.com/hkaushik14/GoCart) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
+- [`Resume Matcher`](https://github.com/hkaushik14/Resume-Matching-System) — Transformer embeddings · cosine similarity ranking
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkaushik14&theme=tokyonight" alt="Profile Details" />
-</p>
+---
+
+### 🛠 Tech Stack
+
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![C++](https://skillicons.dev/icons?i=cpp) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+### 📬 Reach me
+
+[harshkaushik494@gmail.com](mailto:harshkaushik494@gmail.com) · [LinkedIn](https://linkedin.com/in/harshkaushik1) · [GitHub](https://github.com/hkaushik14)
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkaushik14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&hide=stars,prs,issues&count_private=true)](https://github.com/hkaushik14)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hkaushik14&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f0883e&fire=f0883e&currStreakLabel=58a6ff)](https://github.com/hkaushik14)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hkaushik14&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=f0883e&point=ffffff)](https://github.com/hkaushik14)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
