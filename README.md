@@ -42,15 +42,15 @@ Former <strong>AI & Cloud Intern @ Edunet Foundation (AWS)</strong>. Open to SWE
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/hkaushik14">
-<img src="./my-avatar.gif" width="100%" alt="Animated Avatar" />
-</a>
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=hkaushik14&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
 
+<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkaushik14&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkaushik14&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
