@@ -22,10 +22,6 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 ### 🛠 Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![C++](https://skillicons.dev/icons?i=cpp) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git)
-
-
-## 🛠️ Tech Stack
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
