@@ -20,47 +20,10 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 ---
 
-### 🛠 Tech Stack
-
-
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![C++](https://skillicons.dev/icons?i=cpp)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Postman](https://skillicons.dev/icons?i=postman)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
-![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
-
-
-
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,react,nextjs,nodejs,express,postgres,mysql,mongodb,sqlite,tailwind,aws,git,linux,postman)](https://skillicons.dev)
 
-**Programming Languages:** Java, Python, JavaScript, TypeScript, C++
-
-**Frameworks & Libraries:** React, Next.js, Node.js, Express.js, REST APIs
-
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-
-**Tools & Platforms:** Git, Linux, AWS, Postman
-
-**Data Analysis & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
