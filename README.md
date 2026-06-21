@@ -14,9 +14,9 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 ### 🔧 What I'm building
 
-- [`AppSpec Compiler`](https://github.com/hkaushik14/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
-- [`GoCart`](https://github.com/hkaushik14/GoCart) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
-- [`Resume Matcher`](https://github.com/hkaushik14/resume-filter) — Transformer embeddings · cosine similarity ranking
+- [`AppSpec Compiler`](https://github.com/harsh4944/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
+- [`GoCart`](https://github.com/harsh4944/GoCart) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
+- [`Resume Matcher`](https://github.com/harsh4994/resume-filter) — Transformer embeddings · cosine similarity ranking
 
 ---
 
@@ -28,13 +28,13 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 ### 📬 Reach me
 
-[harshkaushik494@gmail.com](mailto:harshkaushik494@gmail.com) · [LinkedIn](https://linkedin.com/in/harshkaushik1) · [GitHub](https://github.com/hkaushik14)
+[harshkaushik494@gmail.com](mailto:harshkaushik494@gmail.com) · [LinkedIn](https://linkedin.com/in/harshkaushik1) · [GitHub](https://github.com/harsh4994)
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkaushik14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true)](https://github.com/hkaushik14)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh4944&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true)](https://github.com/harsh4944)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hkaushik14&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f0883e&fire=f0883e&currStreakLabel=58a6ff)](https://github.com/hkaushik14)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh4944&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f0883e&fire=f0883e&currStreakLabel=58a6ff)](https://github.com/harsh4944)
 
 
 <br>
