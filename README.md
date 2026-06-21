@@ -46,6 +46,22 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 ![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
 
+
+
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,react,nextjs,nodejs,express,postgres,mysql,mongodb,sqlite,tailwind,aws,git,linux,postman)](https://skillicons.dev)
+
+**Programming Languages:** Java, Python, JavaScript, TypeScript, C++
+
+**Frameworks & Libraries:** React, Next.js, Node.js, Express.js, REST APIs
+
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+
+**Tools & Platforms:** Git, Linux, AWS, Postman
+
+**Data Analysis & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 ---
 
 ### 📬 Reach me
