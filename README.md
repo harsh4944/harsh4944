@@ -32,12 +32,6 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 [harshkaushik494@gmail.com](mailto:harshkaushik494@gmail.com) · [LinkedIn](https://linkedin.com/in/harshkaushik1) · [GitHub](https://github.com/harsh4994)
 
 ---
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh4944&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&count_private=true)](https://github.com/harsh4944)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh4944&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f0883e&fire=f0883e&currStreakLabel=58a6ff)](https://github.com/harsh4944)
-
-
 <br>
 
 </div>
