@@ -9,6 +9,7 @@
 
 I build end-to-end systems — LLM-powered compilers, e-commerce platforms, and semantic AI tools.
 Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
+I enjoy turning ideas into products — from AI-powered developer tools to full-stack web applications
 
 ---
 
