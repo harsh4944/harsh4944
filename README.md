@@ -35,7 +35,7 @@ I enjoy turning ideas into products — from AI-powered developer tools to full-
 
 ---
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh4994&theme=github_dark)
+
 </div>
 <div align="center">
 
