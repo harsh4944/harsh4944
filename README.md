@@ -13,7 +13,6 @@ Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
 
 I enjoy turning ideas into products — from AI-powered developer tools to full-stack web applications
 ---
-
 ### 🔧 What I'm building
 
 - [`AppSpec Compiler`](https://github.com/harsh4944/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
