@@ -4,7 +4,6 @@
 
 <br>
 </div>
-
 <br>
 I build end-to-end systems — LLM-powered compilers,RideX is a full-stack ride-booking web application, and semantic AI tools.
 Former **AI & Cloud Intern @ Edunet Foundation (AWS)**. Open to SWE Internships.
